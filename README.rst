@@ -13,6 +13,14 @@ Install latest stable version from PyPI:
 
     $ pip install radar
 
+or install the latest stable version from bitbucket:
+
+    $ pip install -e hg+https://bitbucket.org/barseghyanartur/radar@stable#egg=radar
+
+or install the latest stable version from github:
+
+    $ pip install -e git+http://github.org/barseghyanartur/radar@stable#egg=radar
+
 Usage and examples
 ===================================
 Basic usage
