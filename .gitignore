@@ -1,0 +1,13 @@
+*.py[cod]
+.hgignore~
+.gitignore~
+.hg/
+.git/
+
+builddocs/
+builddocs.zip
+build/
+dist/
+src/radar.egg-info
+MANIFEST.in~
+.tox/

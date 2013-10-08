@@ -1,0 +1,13 @@
+syntax: regexp
+\.pyc$
+\.hgignore~
+\.gitignore~
+\.git/
+
+^example/tmp/
+^builddocs/
+^builddocs.zip
+^build/
+^dist/
+^src/radar.egg-info
+^\.tox/
