@@ -11,7 +11,7 @@ version = '0.3'
 setup(
     name = 'radar',
     version = version,
-    description = ("Random date generation."),
+    description = ("Generate random date(time)."),
     long_description = readme,
     classifiers = [
         "Programming Language :: Python",
@@ -25,7 +25,7 @@ setup(
         "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
         "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
     ],
-    keywords = 'random date, python',
+    keywords = 'random date, random datetime, python',
     author = 'Artur Barseghyan',
     author_email = 'artur.barseghyan@gmail.com',
     package_dir = {'':'src'},
