@@ -30,6 +30,6 @@ setup(
     author_email = 'artur.barseghyan@gmail.com',
     package_dir = {'':'src'},
     packages = find_packages(where='./src'),
-    url = 'https://bitbucket.org/barseghyanartur/radar',
+    url = 'https://github.com/barseghyanartur/radar',
     license = 'GPL 2.0/LGPL 2.1',
 )
